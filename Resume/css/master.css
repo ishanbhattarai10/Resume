@@ -1,0 +1,72 @@
+.prof-box{
+	
+	background-color: rgba(0,0,0,0,0.1);
+	width:500px;
+	height:350px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-top:20px;
+	text-align:center;
+
+
+}
+
+html{
+	background: url(../css/resume.jpeg);
+	background-size: cover;
+	font-family: sans-serif;
+
+}
+.prof-pic{
+	border-radius: 50%;
+	height: 200px;
+	width:200px;
+}
+.h1{
+	font-weight:100;
+	letter-spacing: 6;
+	font-size: 40px
+}
+.p{
+	font-weight: 200;
+	letter-spacing: 1;
+
+}
+.social-icons{
+	font-size: 40px;
+
+}
+.line-break{
+	margin: 0 auto;
+	margin: 2px solid;
+}
+.skills{
+	width:700px;
+	margin: 0px auto;
+}
+.title{
+	font: bold;
+	font-size: 20px;
+	align-content: center;
+	text-align: left;
+
+}
+.mast{
+	font-size: 15px;
+	text-align: left;
+}
+.mast1{
+	font-size: 13px;
+	text-align: center;
+}
+.footer{
+	position: fixed;
+	left:0;
+	bottom:0;
+	width: 100%;
+	background-color: blue;
+	color:maroon;
+	text-align: center;
+	height: 30px;
+	margin: 0px auto;
+}
